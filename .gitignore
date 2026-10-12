@@ -1,0 +1,9 @@
+# Données écrites par RMutils à côté des scripts : infos des PC dépannés
+# et profils Wi-Fi avec mots de passe en clair. À ne jamais publier.
+RMutils_logs/
+RMutils_export/
+*.log
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini

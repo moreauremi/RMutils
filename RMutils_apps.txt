@@ -1,0 +1,7 @@
+# RMutils - pack d'applications : un identifiant winget par ligne
+# Trouver un identifiant : winget search <nom>   (les lignes # sont ignorees)
+Mozilla.Firefox
+7zip.7zip
+VideoLAN.VLC
+Notepad++.Notepad++
+Adobe.Acrobat.Reader.64-bit

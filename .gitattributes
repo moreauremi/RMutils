@@ -1,0 +1,3 @@
+# Les scripts gardent leurs fins de ligne Windows (CRLF) : Git ne les convertit pas.
+*.bat -text
+RMutils_apps.txt -text
