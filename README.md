@@ -148,6 +148,10 @@ Quelques choix techniques :
 - Les réseaux Wi-Fi d'entreprise (connexion avec identifiant personnel) n'ont pas de mot de passe stocké : pas de QR code possible.
 - Une application ouverte peut échouer à se mettre à jour : mieux vaut fermer les applications avant.
 
+## Réalisation
+
+Réalisé avec [Claude Code](https://claude.com/claude-code). Mon rôle : définir le besoin, faire les choix et tester.
+
 ---
 
 Projet personnel de [Rémi Moreau](https://github.com/moreauremi) · [remim.me](https://remim.me)
