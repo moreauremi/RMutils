@@ -152,6 +152,10 @@ Quelques choix techniques :
 
 Réalisé avec [Claude Code](https://claude.com/claude-code). Mon rôle : définir le besoin, faire les choix et tester.
 
+## Licence
+
+[MIT](LICENSE) : libre d'utiliser, de modifier et de redistribuer RMutils, en gardant la mention de copyright. Fourni tel quel, sans garantie.
+
 ---
 
 Projet personnel de [Rémi Moreau](https://github.com/moreauremi) · [remim.me](https://remim.me)
